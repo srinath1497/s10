@@ -1,0 +1,37 @@
+.player{
+    width: 250px;
+}
+
+div{
+    width: 250px;
+    border: 10px  dashed black;
+    background-color: aqua;
+    display:inline-block;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 30px;
+    box-shadow: 10px 10px 10px black;
+}
+
+div p{
+    text-align: justify;
+}
+
+#DhoniDiv{
+    background-color: brown;
+   
+}
+
+#RohitDiv{
+    background-color: blue;
+}
+
+#HeadDiv{
+    background-color: rgb(200, 250, 150);
+}
+
+nav{
+    font-size: 2.5rem;
+    background-color: chocolate;
+}
